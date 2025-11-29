@@ -42,9 +42,8 @@ Apaixonado por desenvolvimento de jogos, arquitetura de software e design patter
 </div>
 
 ## 🎯 Foco Atual
-- 🌱 Aprofundando conhecimentos em **AWS** e **NestJS**
+- 🌱 Aprofundando conhecimentos em **AWS**
 - 🔭 Desenvolvendo projetos para portfólio
-- 💼 Construindo presença como freelancer no mercado brasileiro
 - 🎮 Entusiasta de gaming e otimização de sistemas
 
 ## 📫 Contato
